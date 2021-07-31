@@ -70,4 +70,3 @@ func4 = if (output = B and feature="京") return 1 else return 0
 ```
 
 每个特征函数的权值 类似于发射概率，是统计后的概率。
-
